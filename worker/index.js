@@ -2,18 +2,18 @@
 var authConfig = {
   siteName: 'Glory to Heaven',
   version: '8.4.6',
-  theme: 'carnation',
+  theme: 'netflix-red',
   // Following Themes are Available for Selection.
   // All are Lower Case - Do Not Enter Wrongly.
   // carnation, curious-blue, emerald, ice-cold, konifer, netflix-red, kournikova, mona-lisa, persian-rose, purple-heart, purple-mountains-majesty, salmon, selective-yellow, shamrock, witch-haze
-  frontendUrl: 'https://glorytoheaven.tk',
+  frontendUrl: 'https://1.mgflix.workers.dev',
   github_name: 'tks18',
   github_repo: 'gindex-v4',
   favicon: 'https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico',
-  client_id: 'client_id',
-  backendSite: 'http://localhost:3000',
-  client_secret: 'client_id',
-  refresh_token: 'refresh_token',
+  client_id: '167182462464-03tr49t2lqrlbje8uhlsbrkobbmqboq2.apps.googleusercontent.com',
+  backendSite: 'https://mgggback69.herokuapp.com',
+  client_secret: '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',
+  refresh_token: '1//0g2ARtdl4EMhHCgYIARAAGBASNwF-L9IrWAI_YM0urXa_Em3c_5UpuMLHHvA1jHTx8sIawPvlShEOfylsxfomxd8_nrrcTH5gGdM',
   roots: [
     {
       id: 'folder_id',
